@@ -1,0 +1,33 @@
+
+.header-container {
+	background-color: #EEE;
+}
+
+.header {
+	max-width: 900px;
+	height: 100px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.header td {
+	text-align: center;
+	/*width: 90px;*/
+	/*padding: 50%;*/
+}
+
+.header button {
+    margin-right: 20px;
+    border: 0;
+}
+
+.header button:focus {
+    outline: none;
+}
+
+.link:hover {
+	font-weight: bold;
+/*	text-shadow: 1px 1px #BBB;*/
+}

@@ -1,0 +1,179 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html, body, .footer {
+	height: 100%;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+button {
+	background-color: transparent;
+}
+.container {
+	overflow: hidden;
+}
+
+.black {
+	background-color: #222222;
+	color: #E6E6E6;
+}
+
+.black a {
+	color: #DDD;
+}
+
+.gray {
+	background-color: #303030;
+	color: #E6E6E6;
+}
+
+.white {	
+	background-color: #EEE;
+	color: #111;
+}
+
+.page {
+	max-width: 900px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+/*.link h1:hover {
+	color: #333333;
+}*/
+
+.content {
+	padding: 25px 0;
+	margin: 0px auto;
+}
+
+p {
+	margin-bottom: 20px;
+}
+
+.listen div {
+	margin: 20px 0px;
+	align-items: center;
+	padding-left: 20px;
+}
+
+.list {
+	border-radius: 15px;
+	padding: 30px;
+}
+
+.listing {
+	display: flex;
+	justify-content: space-between;
+	border-radius: 15px;
+	margin: 7px 20px;
+}
+
+
+.category h2 {
+	margin-bottom: 10px;
+}
+
+.ensemble {
+	margin: 8px 20px;
+}
+
+/*.ensemble h3 {
+	margin-bottom: 10px;
+}*/
+
+.audio div {
+	width: 60%;
+}
+
+.listing audio, iframe {
+	margin: 30px;
+}
+
+.listing .black {
+	background-color: #333333;
+}
+
+.listing a {
+	color: #AAA;
+}
+
+.listing p {
+	margin: 15px 10px;
+}
+
+.indent {
+	padding-left: 30px;
+}
+
+.about {
+	width: 80%;
+	padding: 0px;
+	margin-bottom: -800px;
+	letter-spacing: 1px;
+	/*text-align: center;*/
+	line-height: 1.5;
+	background-image: url("sunWithPiano.jpg");
+	background-size: 900px;
+	background-repeat: no-repeat;
+	background-position: 0px -200px;
+}
+
+.opaquish {
+	height: 1250px;
+	background: #222222; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(rgba(0,0,0,0),rgba(0,0,0,1)); /*Safari 5.1-6*/
+	background: -o-linear-gradient(rgba(0,0,0,0),rgba(0,0,0,1)); /*Opera 11.1-12*/
+	background: -moz-linear-gradient(rgba(0,0,0,0),rgba(0,0,0,1)); /*Fx 3.6-15*/
+	background: linear-gradient(rgba(34,34,34,0),rgba(34,34,34,1)); /*Standard*/
+}
+
+.bio {
+	position: relative;
+	top: -800px;
+}
+
+.project-left {
+	flex: 2;
+}
+
+.project-title {
+	font-size: 120%;
+}
+
+.project-description {
+	font-size: 95%;
+	flex: 1;
+}
+
+
+.footer {
+	overflow: hidden;
+	background-color: #EEE;
+	text-align: center;
+	padding: 20px;
+	border-top: 2px solid #DDD;
+}
+
+.footer a {
+	color: black;
+	letter-spacing: 2px;
+	text-decoration-line: none;
+}
+
+/*.footer a:hover {
+	font-weight: bold;
+}*/
+
+.hidden {
+	/*border: 1px solid red;*/
+	visibility: hidden;
+	height: 0px;
+	width: 0px;
+	overflow: hidden;
+	margin: 0px;
+	padding: 0px;
+}

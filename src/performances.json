@@ -1,0 +1,67 @@
+{
+    "items": [{
+        "title": "Gamba Sonatas with Anne-Linde",
+        "date": "27 January 2019, 5:30pm",
+        "description": "Anne-Linde Visser and I will be playing two sonatas for viola da gamba and harpsichord - G major, BWV 1027 and G minor BWV 1029 at the Royal Academy of Music.",
+        "repertoire": "JS Bach // Sonatas for viola da gamba and harpsichord"
+    },
+    {
+        "title": "St Matthew Passion",
+        "date": "3 February 2019, 2pm",
+        "description": "Conducted by Trevor Pinnock, the historical performance department at Royal Academy of Music will present the St. Matthew Passion in Duke's Hall.",
+        "repertoire": "JS Bach // St Matthew Passion"
+    },
+    {
+        "title":"Augusta Read Thomas' Residency @ U Michigan",
+        "date":"15 March 2018",
+        "description":"Jeff Siegfried & I performed CHANT at the UMMA (University of Michigan Museum of Art) at one of the concerts featuring Augusta Read Thomas' works.",
+        "repertoire":"Augusta Read Thomas // <i> Chant </i> for Alto Saxophone and Piano"
+    },
+    {
+        "title":"Bach in the Subways",
+        "date":"24 March 2018",
+        "description":"As part of Bach's birthday celebration, cellist Dahae and I played at Beacon Hill Station!",
+        "repertoire":"JS Bach // Partita No. 4 in D major, excerpts from various French suites, a gamba sonata or two"
+    },
+    {
+        "title":"Groupmuse in Seattle",
+        "date":"25 March 2018",
+        "description":"Joined by my friends Dahae Cheong & Judith Kim on cello and violin respectively, I played some awesome piano trios with Groupmuse while I was home in Seattle.",
+        "repertoire":"Antonin Dvorak // Dumky Trio <br />LV Beethoven // Trio in C minor, Op. 1 No. 3"
+    },
+
+    {
+        "title":"NON:Op / Frontier Feminists",
+        "date":"7 April 2018",
+        "description":"This was a NON:op event, \"a celebration of the Frontier Feminists who trailblazed a path to the farthest reaches of America from the Alaskan wilderness to the isolated Black Hills to the desolate plains of Arkansas.\" Our audiences enjoyed performances while enjoying food by Easy Eats and brews from middle brow beer.",
+        "repertoire":"Judith Cloud // Flying Inside Your Own Body from <i> Night Dreams </i><br />Barbara Harbach // Pioneer Women: From Skagway to White Mountain<br />Lori Laitman // Blue Iris"
+    },
+
+
+    {
+        "title":"Bach and Beyond",
+        "date":"12 April 2018",
+        "description":"The Elmhurst Symphony Musicians in Performance at Mayslake concluded its 2017-18 season with “Bach and Beyond”  at Mayslake Peabody Estate. I played harpsichord with soprano Josefien Stoppelenburg and cellist Jean Hatmaker. ",
+        "repertoire":"GF Handel // La Lucrezia<br />WA Mozart // Alleluia<br />JS Bach // Ouverture from Partita No. 4 in D major<br />JS Bach // Aria from Phoebus Elit mit schneiden Pferden"
+    },
+
+    {
+        "title":"Champaign-Urbana Symphony Orchestra",
+        "date":"28 April 2018",
+        "description":"I performed a concerto as part of the \"Music of Titans\" concert. Conducted by Maestro Stephen Alltop. ",
+        "repertoire":"WA Mozart // Piano Concerto No. 14 in Eb"
+    },
+
+    {
+        "title":"",
+        "date":"",
+        "description":"",
+        "repertoire":""
+    },
+    {
+        "title":"",
+        "date":"",
+        "description":"",
+        "repertoire":""
+    }]
+}
